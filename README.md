@@ -1,5 +1,18 @@
 # hcii-design-principles-user-centric-explainable-ai-fraud-detection
-Systematic literature review data, implementation and resources for the development of the paper "Towards Design Principles for User-Centric Explainable AI in Fraud Detection" submitted to HCI International 2021 by Douglas Cirqueira, Markus Helfert and Marija Bezbradica.
+Systematic literature review data, implementation and resources for the development of the paper "Towards Design Principles for User-Centric Explainable AI in Fraud Detection" submitted to HCI International 2021 by:
+- Douglas Cirqueira, School of Computing, Dublin City University and Lero - the Science Foundation Ireland Research Centre for Software, Dublin City University, Dublin, Ireland
+- Markus Helfert, Innovation Value Institute, Maynooth University and Lero - the Science Foundation Ireland Research Centre for Software, Dublin City University, Dublin, Ireland
+- Marija Bezbradica, School of Computing, Dublin City University and Lero - the Science Foundation Ireland Research Centre for Software, Dublin City University, Dublin, Ireland
+
+# Simulation Results 
+The Python script and dataset adopted to perform the user simulated experiment, and instantiate explanation methods is available at the [resources folder.](https://github.com/dougcirqueira/hcii-design-principles-user-centric-explainable-ai-fraud-detection/tree/main/resources/simulation) 
+
+# Results of Systematic Literature Review: Identifying Design Features of Explanation Methods
+The complete set of papers and statistics for the literature review are available at the [resources folder.](https://github.com/dougcirqueira/hcii-design-principles-user-centric-explainable-ai-fraud-detection/tree/main/resources/systematic_literature_review)
+
+# Table with Events Analyzed for the Systematic Literature Review
+![Image of Events](https://github.com/dougcirqueira/hcii-design-principles-user-centric-explainable-ai-fraud-detection/blob/main/resources/systematic_literature_review/events_HCII_21.png)
+
 
 # Table with Selected Papers and Design Features
 
