@@ -4,6 +4,9 @@ Systematic literature review data, implementation and resources for the developm
 - Markus Helfert, Innovation Value Institute, Maynooth University and Lero - the Science Foundation Ireland Research Centre for Software, Dublin City University, Dublin, Ireland
 - Marija Bezbradica, School of Computing, Dublin City University and Lero - the Science Foundation Ireland Research Centre for Software, Dublin City University, Dublin, Ireland
 
+# Acknowledgement 
+This research was supported by the European Union Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 765395; and supported, in part, by Science Foundation Ireland grant 13/RC/2094_P2
+
 # Simulation Results 
 The Python script and dataset adopted to perform the user simulated experiment, and instantiate explanation methods is available at the [resources folder.](https://github.com/dougcirqueira/hcii-design-principles-user-centric-explainable-ai-fraud-detection/tree/main/resources/simulation) 
 
